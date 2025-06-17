@@ -9,10 +9,10 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://uuchanmp.xmit.dev" target="_blank">
+        <a href="https://uuchanmp.xmit.dev/admin" target="config.yml">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://uuchanmp.xmit.dev" target="_blank">
+        <a href="https://uuchanmp.xmit.dev/admin" target="index.html">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
